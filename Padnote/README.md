@@ -1,11 +1,9 @@
-PADNOTE:
+Padnote
 
-This is a version of Notepad that I programmed in Python. I am still working on bugs and development of other features :)
+My version of Notepad from Windows OS
 
 TODO:
-  -Add font customizer (color, size, font type)
-  -Add background color changes
-  -Allow images to be inserted into file
-  
-  
-  I will add more options for the future. These first three are the ones that I want the most soon.
+- Add font changes (color, size, font style)
+- Add background changes
+- Allow for user to use own pictures 
+
