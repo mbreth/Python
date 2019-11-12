@@ -1,8 +1,8 @@
-<h1>PADNOTE:</h1>
+PADNOTE:
 
 This is a version of Notepad that I programmed in Python. I am still working on bugs and development of other features :)
 
-<h3>TODO:</h3>
+TODO:
   -Add font customizer (color, size, font type)
   -Add background color changes
   -Allow images to be inserted into file
